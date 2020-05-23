@@ -1,6 +1,6 @@
 # Angr-Elf
 
-Welcome to the realm of the elves, where you can learn how to sovle CTF crackme exercises with [Angr](https://docs.angr.io/) binary analysis toolkit. 
+Welcome to the realm of the elves, where you can learn how to solve CTF-style ELF crackmes with [Angr](https://docs.angr.io/) binary analysis toolkit. 
 
 ```
  █████╗ ███╗   ██╗ ██████╗ ██████╗     ███████╗██╗     ███████╗
